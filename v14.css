@@ -1,0 +1,33 @@
+body{
+    background-color: #0b1120;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+h2 {
+    color: #38bdf8;
+    text-align: center;
+}
+h3 {
+    color: #38bdf8;
+    border-bottom: 2px solid #2563eb;
+    padding-bottom: 8px;
+}
+ul{
+    background-color: #172033;
+    padding:20px 20px 20px 40px;
+    border-radius: 12px;
+}
+li{
+    margin:10px 0;
+    line-height: 1.5;
+}
+img{
+    display: block;
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    margin: 25px auto;
+    border-radius: 15px;
+    border: 3px solid #38bdf8;
+}
